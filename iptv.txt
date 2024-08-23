@@ -64,10 +64,11 @@ TVBS 台劇台,http://209.146.124.22:8891/4gtv/285
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8 
 八大戲劇,http://23.26.239.95:3599/xsj.php?id=gtv-41 
 八大娛樂,http://23.26.239.95:3599/xsj.php?id=gtv-86 
-三立新聞,http://209.146.124.22:8891/4gtv/229 
+三立新聞, http://125.227.210.55:8162/VideoInput/play.ts 
+三立iNEWs,http://209.146.124.22:8891/4gtv/229 
 三立綜合台,http://209.146.124.22:8891/4gtv/169 
 三立都會台,http://23.26.239.95:3599/xsj.php?id=settv-city 
-三立戲劇台,http://23.26.239.95:3599/xsj.php?id=settv-drama 
+三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8 
 三立台灣,http://23.26.239.95:3599/xsj.php?id=settv-taiwan 
 台視,http://209.146.124.22:8891/litv/4gtv-4gtv066 
 台視新聞台,http://209.146.124.22:8891/litv/4gtv-4gtv051 
