@@ -25,7 +25,8 @@ amc电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 非凡商业,https://litv.zapi.us.kg/?id=4gtv-4gtv048 
 采昌影剧,https://litv.zapi.us.kg/?id=4gtv-4gtv049 
 台视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv051 
-华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv052 GinxTV,https://litv.zapi.us.kg/?id=4gtv-4gtv053 
+华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv052 
+GinxTV,https://litv.zapi.us.kg/?id=4gtv-4gtv053 
 靖天欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv054 
 靖天映画,https://litv.zapi.us.kg/?id=4gtv-4gtv055 
 台视财经,https://litv.zapi.us.kg/?id=4gtv-4gtv056 
@@ -41,10 +42,12 @@ amc电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 tvbs精采台,https://litv.zapi.us.kg/?id=4gtv-4gtv067 
 tvbs欢乐台,https://litv.zapi.us.kg/?id=4gtv-4gtv068 
 爱尔达娱乐,https://litv.zapi.us.kg/?id=4gtv-4gtv070 
-tvbs新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072 tvbs,https://litv.zapi.us.kg/?id=4gtv-4gtv073 
+tvbs新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072 
+tvbs,https://litv.zapi.us.kg/?id=4gtv-4gtv073 
 中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074 
 镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075 
-CATCHPLAY电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076 TRACE SPORTS STARS,https://litv.zapi.us.kg/?id=4gtv-4gtv077 
+CATCHPLAY电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076 
+TRACE SPORTS STARS,https://litv.zapi.us.kg/?id=4gtv-4gtv077 
 阿里郎,https://litv.zapi.us.kg/?id=4gtv-4gtv079 
 中视经典,https://litv.zapi.us.kg/?id=4gtv-4gtv080 
 TRACE URBAN,https://litv.zapi.us.kg/?id=4gtv-4gtv082 
@@ -154,9 +157,11 @@ ELTA 生活英語,http://209.146.124.22:8891/litv/litv-longturn20
 鏡電視新聞台,http://209.146.124.22:8891/litv/4gtv-4gtv075 
 CNBC Asia 財經台,http://209.146.124.22:8891/4gtv/235 
 亞洲旅遊台,http://209.146.124.22:8891/litv/litv-longturn17 
-GINX Esports TV,http://209.146.124.22:8891/litv/4gtv-4gtv053 TechStorm,http://209.146.124.22:8891/4gtv/181 
+GINX Esports TV,http://209.146.124.22:8891/litv/4gtv-4gtv053 
+TechStorm,http://209.146.124.22:8891/4gtv/181 
 時尚運動X,http://209.146.124.22:8891/4gtv/277 
-智林體育台,http://209.146.124.22:8891/litv/4gtv-4gtv101 TraceSports,http://209.146.124.22:8891/litv/4gtv-4gtv077 
+智林體育台,http://209.146.124.22:8891/litv/4gtv-4gtv101 
+TraceSports,http://209.146.124.22:8891/litv/4gtv-4gtv077 
 影迷數位紀實台,http://209.146.124.22:8891/4gtv/212 
 影迷數位電影台,http://209.146.124.22:8891/litv/4gtv-4gtv011 
 AMC 最愛電影,http://209.146.124.22:8891/litv/4gtv-4gtv017 
@@ -170,7 +175,8 @@ My Cinema Europe HD 我的歐洲電影,http://209.146.124.22:8891/4gtv/176
 經典電影台,http://209.146.124.22:8891/4gtv/201 
 電影免費看 2台,http://209.146.124.22:8891/4gtv/245 
 電影原聲台 CMusic,http://209.146.124.22:8891/4gtv/218 
-花系列 經典劇場,http://209.146.124.22:8891/4gtv/279 CinemaWorld,http://209.146.124.22:8891/4gtv/225 
+花系列 經典劇場,http://209.146.124.22:8891/4gtv/279 
+CinemaWorld,http://209.146.124.22:8891/4gtv/225 
 HITS 頻道,http://209.146.124.22:8891/4gtv/186 
 Rock Action,http://209.146.124.22:8891/4gtv/180 
 Rock Entertainment,http://209.146.124.22:8891/4gtv/275 
